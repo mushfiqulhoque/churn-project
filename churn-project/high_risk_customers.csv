@@ -1,0 +1,21 @@
+customerID,Contract,MonthlyCharges,tenure,InternetService,ChurnProbability,RiskTier
+TLC-12919,Month-to-month,101.93,10,Fiber optic,0.7037737608900737,High Risk
+TLC-14974,Month-to-month,100.26,8,Fiber optic,0.6456643317934173,High Risk
+TLC-14692,Month-to-month,42.75,12,Fiber optic,0.6385671341590904,High Risk
+TLC-13094,Month-to-month,33.57,6,Fiber optic,0.6323932132270534,High Risk
+TLC-10027,Month-to-month,90.81,21,Fiber optic,0.6230465614056836,High Risk
+TLC-14198,Month-to-month,52.4,17,Fiber optic,0.6209123161127681,High Risk
+TLC-14905,Month-to-month,67.43,5,Fiber optic,0.6187161142028292,High Risk
+TLC-11588,Month-to-month,90.84,16,Fiber optic,0.6162859570657235,High Risk
+TLC-14612,Month-to-month,83.86,19,Fiber optic,0.6134795135429819,High Risk
+TLC-13278,Month-to-month,87.13,12,Fiber optic,0.6111426779229902,High Risk
+TLC-10023,Month-to-month,72.26,13,Fiber optic,0.6101276921602328,High Risk
+TLC-14839,Month-to-month,84.12,9,Fiber optic,0.6100014364201235,High Risk
+TLC-13398,Month-to-month,53.01,8,Fiber optic,0.6080297992934828,High Risk
+TLC-10669,Month-to-month,24.6,10,Fiber optic,0.6079891456020646,High Risk
+TLC-12068,Month-to-month,63.83,5,Fiber optic,0.6052559863635114,High Risk
+TLC-14367,Month-to-month,59.7,17,Fiber optic,0.6045369611861693,High Risk
+TLC-14794,Month-to-month,69.14,10,DSL,0.6005589853390189,High Risk
+TLC-14267,Month-to-month,71.86,1,Fiber optic,0.599813116647843,High Risk
+TLC-14586,Month-to-month,85.21,15,Fiber optic,0.5986974834515855,High Risk
+TLC-11169,Month-to-month,115.79,10,DSL,0.5979952295441658,High Risk
