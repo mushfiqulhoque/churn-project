@@ -1,7 +1,7 @@
 """
 churn_analysis.py
 End-to-end Customer Churn Prediction Pipeline
-Author: [Your Name]
+Author: [Md Mushfiqul Hoque]
 
 Covers:
   - Data loading & cleaning
